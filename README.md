@@ -4,5 +4,5 @@ Answer the following questions based on your learning.
 3. Why is understanding Service Culture essential for Software Engineers?
 4. Think of a time you had either a great or terrible service experience with a tech company (e.g., an app, website, or tech support). What made it good or bad? What would you improve?
 
-Please click the link provided and enter your responses to each question: [ANSWERS](https://github.com/Jezake/Lesson-1-Introduction-to-Service-Culture-Activity-1/blob/2cf553b7728a684883262545096659ffd0673ac6/ANSWERS)
+Please click the link provided and enter your responses to each question: [ANSWERS](https://github.com/Jezake/Lesson-1-Introduction-to-Service-Culture-Activity-1/blob/2bcb809dc5a7037292e8807a5a25c15305957e75/ANSWERS)
 
